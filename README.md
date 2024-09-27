@@ -5,7 +5,7 @@ Este é um pequeno aplicativo em Python que permite criar etiquetas em PDF a par
 ## Como usar
 1. **Clone o repositório:**
 ```
-git clone [https://github.com/ViniciusLeopoldino/criador-etiquetas-py]
+git clone https://github.com/ViniciusLeopoldino/criador-etiquetas-py
 ```
 
 2. **Instale as dependências:**
